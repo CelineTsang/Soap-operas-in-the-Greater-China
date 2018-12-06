@@ -1,8 +1,7 @@
 # The Formula Of FFSO
 
-* The formula of frame & fortune soap opera
+* The formula of fame & fortune soap opera in the greater China.
 
-Soap operas in the Greater China
 
 Group Members
 ====
