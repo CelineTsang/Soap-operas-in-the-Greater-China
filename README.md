@@ -1,14 +1,19 @@
 # The Formula Of FFSO
 
-* The formula of fame & fortune soap opera in the greater China.
+* The 3C formula of fame & fortune soap opera in the greater China.
+
+DATA BASE
+----
+
+DOUBAN.COM
 
 
 Group Members
 ====
 
-ZENG SINING 
+ZENG SINING @CelineTsang
 
-LIN HUIQING
+LIN HUIQING @18408532
 
 LUO YI
 
