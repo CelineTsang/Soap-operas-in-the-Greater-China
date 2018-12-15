@@ -4,9 +4,9 @@ The 3C formula of fame & fortune soap opera in the greater China.
 
 
 # Team Members
-ZENG SINING @CelineTsang
-LIN HUIQING @18408532
-LUO YI @hakutoccino
+ZENG SINING [@CelineTsang](https://github.com/CelineTsang)
+LIN HUIQING [@18408532](https://github.com/18408532)  
+LUO YI [@hakutoccino](https://github.com/hakutoccino)
 HUANG YANGMING @MingWong
 
 
