@@ -10,7 +10,7 @@ LIN HUIQING [@18408532](https://github.com/18408532)
 
 LUO YI [@hakutoccino](https://github.com/hakutoccino)  
 
-HUANG YANGMING @MingWong
+HUANG YANGMING [@MingWong](https://github.com/Wong-Ming)
 
 
 # Background & Motivation
