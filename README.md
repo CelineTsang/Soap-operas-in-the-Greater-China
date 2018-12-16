@@ -29,8 +29,8 @@ After our study, we found that the output value of Chinese TV dramas industry is
 
 
 # Quick pointers to key files
-
-
+1. [Data Collection Code](https://github.com/CelineTsang/The-Formula-Of-FFSO/blob/master/final_project/data_collection.ipynb)
+2. [Data Visualization](https://github.com/CelineTsang/The-Formula-Of-FFSO/blob/master/final_project/data_presentation.ipynb)
 
 # References
 盘点2017网剧：瓜分“国民总时间”、13部剧超8分、版权发行成变现新掘金点：
